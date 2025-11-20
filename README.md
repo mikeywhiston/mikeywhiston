@@ -1,5 +1,5 @@
 ### `INTRODUCTION`
-My name is Mikey Whiston. I'm a programmer that focuses on cybersecurity and developing tools to mitigate against the growing cyber landscape.<br>My goal is to make a large positive impact on the cybersecurity community at large, as much as I am able to - and find vulnerabilities safely within programs.
+My name is Mikey Whiston. I'm a programmer that focuses on cybersecurity and developing tools to secure and improve critical systems.<br>My goal is to make a large positive impact on the cybersecurity community at large, as much as I am able to, as well as identifying and responsibly disclosing security vulnerabilities.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikeywhiston&show_icons=true&theme=radical)
 
