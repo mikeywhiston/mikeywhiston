@@ -1,6 +1,8 @@
 ### `INTRODUCTION`
 My name is Mikey Whiston. I'm a programmer that focuses on cybersecurity and developing tools to secure and improve critical systems.<br>My goal is to make a large positive impact on the cybersecurity community at large, as much as I am able to, as well as identifying and responsibly disclosing security vulnerabilities.
 
+<img src="https://images.credly.com/size/340x340/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png" width="10%" height="10%"> <img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" height="10%" width="10%"> <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="10%" height="10%">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikeywhiston&show_icons=true&theme=radical)
 
 ### `DESCRIPTION`
