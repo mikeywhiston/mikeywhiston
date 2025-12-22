@@ -13,8 +13,8 @@ I am going to be studying for the CompTIA Security+ exam, so that I can hold gre
 
 ### `RECENT ACHIEVEMENTS`
 - **`2025-12-12`** Cisco Certified Cybersecurity Associate
-- **`2025-11-16`** Cisco Networking Academy: CyberOps Associate
 - **`2025-11-26`** Springpod: Virtual Work Experience with Drax Cybersecurity
+- **`2025-11-16`** Cisco Networking Academy: CyberOps Associate
  
 ### `HISTORICAL ACHIEVEMENTS`
 - Cisco Certified Support Technician (Networking)
