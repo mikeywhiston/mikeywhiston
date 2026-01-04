@@ -9,7 +9,8 @@ My name is Mikey Whiston. I'm a programmer that focuses on cybersecurity and dev
 I am based in Birmingham, United Kingdom.<br>I am currently 16 years old, in **Year 12** of my education.<br>I currently study A Level Mathematics, A Level Further Mathematics and A Level Computer Science.<br>I am one year ahead in A Level Computer Science, and I will be taking the full A Level exam at the end of Year 12.
 
 ### `PROFESSIONAL DEVELOPMENT`
-I am going to be studying for the CompTIA Security+ exam, so that I can hold greater knowledge and secure an accredited certification in Cybersecurity.
+I am going to be studying for the CompTIA Security+ exam, so that I can hold greater knowledge and secure an accredited certification in Cybersecurity. This is going to be a short-term goal, because most of the knowledge is already embedded within my current certifications.
+I am also going to be learning the Hack The Box Certified Penetration Tester Specialist qualification in order to gain higher proficiency in penetration testing.
 
 ### `RECENT ACHIEVEMENTS`
 - **`2025-12-12`** Cisco Certified Cybersecurity Associate
