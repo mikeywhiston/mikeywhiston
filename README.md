@@ -13,7 +13,6 @@ I am based in Birmingham, United Kingdom.<br>I am currently 16 years old, in **Y
 - **December 2025:** Discovered CVSS 10.0 in national education infrastructure, and reported it to the vendor and GC3.
 
 ### `PROFESSIONAL DEVELOPMENT`
-I am going to be studying for the CompTIA Security+ exam, so that I can hold greater knowledge and secure an accredited certification in Cybersecurity.<br>This is going to be a short-term goal, because most of the knowledge is already embedded within my current certifications.<br><br>
 I am also going to be learning the Hack The Box Certified Penetration Tester Specialist qualification in order to gain higher proficiency in penetration testing.
 
 ### `RECENT ACHIEVEMENTS`
