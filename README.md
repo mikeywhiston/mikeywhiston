@@ -1,19 +1,16 @@
 ### `INTRODUCTION`
-My name is Mikey Whiston. I'm a Systems Architect and Security Researcher focused on Critical National Infrastructure and forensic logic-auditing.<br>My goal is to make a large positive impact on the cybersecurity community at large, as much as I am able to, as well as identifying and responsibly disclosing security vulnerabilities.
+My name is Mikey Whiston. I'm a Systems Architect and Security Researcher focused on Critical National Infrastructure and forensic logic-auditing.<br>My goal is to make a large positive impact on the cybersecurity community at large, as well as identifying and responsibly disclosing security vulnerabilities.
 
 <img src="https://i.ibb.co/B5br9ymG/cybersecurity-associate.png" width="10%" height="10%"> <img src="https://images.credly.com/size/340x340/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png" width="10%" height="10%"> <img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" height="10%" width="10%"> <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="10%" height="10%">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikeywhiston&show_icons=true&theme=radical)
 
 ### `DESCRIPTION`
-I am based in Birmingham, United Kingdom.<br>I am currently 16 years old, in **Year 12** of my education.<br>I currently study A Level Mathematics, A Level Further Mathematics and A Level Computer Science.<br>I am one year ahead in A Level Computer Science, and I will be taking the full A Level exam at the end of Year 12.
+I am based in Birmingham, United Kingdom.<br>I am currently 17 years old, in **Year 12** of my education.<br>I currently study A Level Mathematics, A Level Further Mathematics and A Level Computer Science.<br>I am one year ahead in A Level Computer Science, and I will be taking the full A Level exam at the end of Year 12.
 
 ### `VULNERABILITY RESEARCH`
 - **Feb-March 2026:** Discovered systemic logic-gap in RSPS5045 02-03 national rail standard.
 - **December 2025:** Discovered CVSS 9.8 in national education infrastructure, and reported it to the vendor and GC3.
-
-### `PROFESSIONAL DEVELOPMENT`
-I am also going to be learning the Hack The Box Certified Penetration Tester Specialist qualification in order to gain higher proficiency in penetration testing.
 
 ### `RECENT ACHIEVEMENTS`
 - **`2026-05-16`** **Mainstage Speaker at BSides Birmingham:** *From CSS to SysAdmin: CVSS 9.8 in National Education Infrastructure*
