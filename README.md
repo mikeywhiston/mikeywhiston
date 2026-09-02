@@ -6,7 +6,7 @@ My name is Mikey Whiston. I'm a Systems Architect and Security Researcher focuse
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikeywhiston&show_icons=true&theme=radical)
 
 ### `DESCRIPTION`
-I am based in Birmingham, United Kingdom.<br>I am currently 17 years old, in **Year 12** of my education.<br>I currently study A Level Mathematics, A Level Further Mathematics and A Level Computer Science.<br>I am one year ahead in A Level Computer Science, and I will be taking the full A Level exam at the end of Year 12.
+I am based in Birmingham, United Kingdom.<br>I am currently 17 years old, in **Year 13** of my education.<br>I currently study A Level Mathematics, A Level Further Mathematics and A Level Computer Science.<br>I am one year ahead in A Level Computer Science, and I will be taking the full A Level exam at the end of Year 12.
 
 ### `VULNERABILITY RESEARCH`
 - **Feb-March 2026:** Discovered systemic logic-gap in RSPS5045 02-03 national rail standard.
