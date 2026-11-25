@@ -11,7 +11,7 @@ I am based in Birmingham, United Kingdom.<br>I am currently 17 years old, in **Y
 - **December 2025:** Discovered a CVSS 9.8 critical vulnerability in national education infrastructure, and reported it to the vendor and GC3.
 
 ### `RECENT ACHIEVEMENTS`
-- **`2026-08-10`** [**Natural Press Feature in The Times**](https://www.thetimes.com/uk/technology-uk/article/student-expose-cybersecurity-flaw-ethical-hacking-hv29ghgh6)
+- **`2026-08-10`** [**National Press Feature in The Times**](https://www.thetimes.com/uk/technology-uk/article/student-expose-cybersecurity-flaw-ethical-hacking-hv29ghgh6)
 - **`2026-05-16`** **Mainstage Speaker at BSides Birmingham:** *From CSS to SysAdmin: CVSS 9.8 in National Education Infrastructure*
 - **`2026-03-17`** [**National Winner of Rail Data Marketplace Hackathon 2026**](https://raildata.org.uk/blog/blogDetails/ticket-eligibility-finder)
 - **`2025-12-12`** Cisco Certified Cybersecurity Associate
